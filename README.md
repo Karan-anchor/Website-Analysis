@@ -11,11 +11,6 @@ The analysis helps identify:
 
 ---
 
-## 🗂 Dataset
-[Download mymoviesdb.csv](dataset/mymoviesdb.csv)
-
----
-
 ## 🛠 Tools & Technologies
 - Python
 - Pandas
